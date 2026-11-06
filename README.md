@@ -1,3 +1,4 @@
+ HEAD
 #  Codebase RAG — AI Software Engineer
 
 An AI-powered **Codebase Question Answering System** that allows developers to ask natural-language questions about an entire software repository.
@@ -385,3 +386,7 @@ Codebase RAG explores how **RAG systems can move beyond document question-answer
 The goal is to build an AI Software Engineer capable of understanding the structure and implementation of a real software repository and helping developers navigate it efficiently.
 
 ---
+
+# CodeLens
+CodeLens is an AI-powered codebase assistant that helps developers understand, explore, and interact with code repositories. It uses code ingestion, semantic embeddings, and Qdrant vector search to retrieve relevant code context, then leverages LLMs such as Google Gemini to generate intelligent answers. 
+ 07ac403185a209a693d26c4f71d8a9caf03ebf03
